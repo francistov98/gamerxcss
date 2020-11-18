@@ -1,1 +1,1 @@
-<?php requiere_once("index.hmtl")?>
+<?php requiere_once("index.html")?>
